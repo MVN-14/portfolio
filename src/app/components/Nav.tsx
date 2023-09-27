@@ -2,7 +2,7 @@
 
 import { MouseEventHandler } from "react";
 
-export type NavItem = "Projects" | "Education" | "Experience";
+export type NavItem = "Projects" | "Contact" | "Experience";
 
 export default function Nav({
   onChange,
@@ -20,16 +20,16 @@ export default function Nav({
         Projects
       </button>
       <button
-        className={`${selectedItem == "Education" ? "active" : ""} w-1/3`}
-        onClick={onChange}
-      >
-        Education
-      </button>
-      <button
         className={`${selectedItem == "Experience" ? "active" : ""} w-1/3`}
         onClick={onChange}
       >
         Experience
+      </button>
+      <button
+        className={`${selectedItem == "Contact" ? "active" : ""} w-1/3`}
+        onClick={onChange}
+      >
+        Contact
       </button>
     </div>
   );

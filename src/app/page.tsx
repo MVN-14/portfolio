@@ -2,7 +2,7 @@
 import { Parallax, ParallaxLayer } from "@react-spring/parallax";
 import backgroundImg from "../../img/background.jpg";
 import { useState } from "react";
-import { Education, Projects, Header, Nav, Experience } from "./components";
+import { Projects, Header, Nav, Experience, Contact } from "./components";
 import { NavItem } from "./components/Nav";
 
 export default function Home() {
@@ -40,8 +40,8 @@ export default function Home() {
           />
           <div className=" px-24">
             {navItem === "Projects" && <Projects />}
-            {navItem === "Education" && <Education />}
             {navItem === "Experience" && <Experience />}
+            {navItem === "Contact" && <Contact />}
           </div>
         </ParallaxLayer>
       </Parallax>
