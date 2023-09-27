@@ -2,7 +2,14 @@
 import { Parallax, ParallaxLayer } from "@react-spring/parallax";
 import backgroundImg from "../../img/background.jpg";
 import { useState } from "react";
-import { Education, Projects, Header, Nav, Experience } from "./components";
+import {
+  Education,
+  Projects,
+  Header,
+  Nav,
+  Experience,
+  Footer,
+} from "./components";
 import { NavItem } from "./components/Nav";
 
 export default function Home() {
@@ -10,25 +17,26 @@ export default function Home() {
 
   return (
     <div>
-      <Parallax pages={4}>
+      <Parallax pages={2}>
         <ParallaxLayer
-          speed={0.1}
-          factor={4.5}
+          speed={0.3}
+          factor={2.6}
           style={{
             backgroundImage: `url(${backgroundImg.src})`,
             backgroundSize: "cover",
             opacity: 0.5,
           }}
         ></ParallaxLayer>
-        <ParallaxLayer speed={1} factor={0.2}>
+
+        <ParallaxLayer speed={3} factor={0.2}>
           <Header />
         </ParallaxLayer>
 
         <ParallaxLayer
+          speed={3}
           factor={1}
           offset={1}
-          speed={4}
-          sticky={{ start: 1, end: 3 }}
+          sticky={{ start: 1, end: 2 }}
         >
           <Nav
             onChange={(e) => {
@@ -39,10 +47,12 @@ export default function Home() {
           />
         </ParallaxLayer>
 
-        <ParallaxLayer offset={1} style={{ padding: "100px" }}>
-          <div>{navItem == "Projects" && <Projects />}</div>
-          <div>{navItem == "Education" && <Education />}</div>
-          <div>{navItem == "Experience" && <Experience />}</div>
+        <ParallaxLayer offset={1} speed={0.5}>
+          <div className=" px-24 pt-14">
+            {navItem === "Projects" && <Projects />}
+            {navItem === "Education" && <Education />}
+            {navItem === "Experience" && <Experience />}
+          </div>
         </ParallaxLayer>
       </Parallax>
     </div>
