@@ -5,8 +5,8 @@ export function Header() {
         Hi. I&apos;m Michael Nogueira, A Software Developer.
       </h1>
       <p className="pt-5 pe-5">
-        I am passionate about building software that adheres to modern best
-        practices and standards.
+        I am a recent Fanshawe College CPA graduate and I am passionate about
+        building software that adheres to modern best practices and standards.
       </p>
       <p className="pt-56">Check out my work below!</p>
     </div>

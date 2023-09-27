@@ -1,13 +1,11 @@
-import spotifyTrackerImage from "../../../img/spotify-tracker-top-artists.png";
-import guitarTuner from "../../../img/guitar-tuner.jpg";
+import spotifyTrackerImage from "img/spotify-tracker-top-artists.png";
+import guitarTuner from "img/guitar-tuner.jpg";
 import { Carousel } from "react-responsive-carousel";
 import { Project } from ".";
 
 export function Projects() {
   return (
     <div className="text-center">
-      <h1 className="text-6xl pt-16 pb-5">My Projects</h1>
-
       <Carousel
         showStatus={false}
         infiniteLoop

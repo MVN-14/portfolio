@@ -1,12 +1,12 @@
 "use client";
 import { Parallax, ParallaxLayer } from "@react-spring/parallax";
-import backgroundImg from "../../img/background.jpg";
+import backgroundImg from "img/background.jpg";
 import { useState } from "react";
 import { Projects, Header, Nav, Experience, Contact } from "./components";
 import { NavItem } from "./components/Nav";
 
 export default function Home() {
-  const [navItem, setNavItem] = useState<NavItem>("Projects");
+  const [selectedNavItem, setSelectedNavItem] = useState<NavItem>("Projects");
 
   return (
     <div>
@@ -21,27 +21,23 @@ export default function Home() {
           }}
         ></ParallaxLayer>
 
-        <ParallaxLayer speed={3} factor={0.5}>
+        <ParallaxLayer speed={2} factor={1}>
           <Header />
         </ParallaxLayer>
 
-        <ParallaxLayer
-          speed={3}
-          factor={0.2}
-          offset={1}
-          sticky={{ start: 1, end: 2 }}
-        >
+        <ParallaxLayer speed={3} factor={1} offset={1}>
           <Nav
             onChange={(e) => {
               const button = e.target as HTMLButtonElement;
-              setNavItem(button.innerText as NavItem);
+              setSelectedNavItem(button.innerText as NavItem);
             }}
-            selectedItem={navItem}
+            selectedItem={selectedNavItem}
           />
+          <h1 className="text-6xl pt-8 pb-8 text-center">{`My ${selectedNavItem}`}</h1>
           <div className=" px-24">
-            {navItem === "Projects" && <Projects />}
-            {navItem === "Experience" && <Experience />}
-            {navItem === "Contact" && <Contact />}
+            {selectedNavItem === "Projects" && <Projects />}
+            {selectedNavItem === "Experience" && <Experience />}
+            {selectedNavItem === "Contact" && <Contact />}
           </div>
         </ParallaxLayer>
       </Parallax>

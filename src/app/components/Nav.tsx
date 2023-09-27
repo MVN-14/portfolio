@@ -19,12 +19,14 @@ export function Nav({
       >
         Projects
       </button>
+
       <button
         className={`${selectedItem == "Experience" ? "active" : ""} w-1/3`}
         onClick={onChange}
       >
         Experience
       </button>
+
       <button
         className={`${selectedItem == "Contact" ? "active" : ""} w-1/3`}
         onClick={onChange}

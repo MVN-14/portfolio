@@ -8,6 +8,10 @@
   @apply border rounded-xl p-2 font-bold md:text-2xl;
 }
 
+.tag-sm {
+  @apply border rounded-lg p-1 font-bold text-lg w-fit;
+}
+
 .active {
   @apply bg-white text-black flex-grow rounded-2xl;
 }

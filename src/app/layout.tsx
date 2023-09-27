@@ -1,8 +1,8 @@
 import "./globals.css";
 import type { Metadata } from "next";
-import { Courier_Prime } from "next/font/google";
+import { Open_Sans } from "next/font/google";
 
-const font = Courier_Prime({ weight: "400", subsets: ["latin"] });
+const font = Open_Sans({ weight: "400", subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Michael Nogueira",
