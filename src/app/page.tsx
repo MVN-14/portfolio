@@ -13,10 +13,10 @@ export default function Home() {
       <Parallax pages={2}>
         <ParallaxLayer
           speed={0.3}
-          factor={2.6}
+          factor={2.5}
           style={{
             backgroundImage: `url(${backgroundImg.src})`,
-            backgroundSize: "cover",
+            backgroundSize: "100% 100%",
             opacity: 0.5,
           }}
         ></ParallaxLayer>
