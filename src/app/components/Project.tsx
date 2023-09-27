@@ -10,7 +10,7 @@ export default function Project({
   tags,
 }: PageProps) {
   return (
-    <div className="bg-black border-background border-8 bg-opacity-40 rounded-3xl mx-auto pb-8 h-full">
+    <div className="bg-black border-background border-8 bg-opacity-40 rounded-3xl mx-auto pb-8 min-h-[800px] max-h-[900px]">
       <div className="flex w-full justify-between px-5 py-2 border-background border-b-8">
         <h1 className="my-auto text-4xl text-center">{name}</h1>
         <h1 className="flex flex-row gap-2 justify-center align-middle">
@@ -18,12 +18,12 @@ export default function Project({
         </h1>
       </div>
       <Image
-        className="p-5 mx-auto"
+        className="p-5 mx-auto flex-grow"
         src={image}
         alt={`${name} image`}
         style={{
-          width: "50%",
-          height: "auto",
+          width: "40%",
+          height: "40%",
         }}
       ></Image>
 

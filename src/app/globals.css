@@ -5,13 +5,13 @@
 @tailwind utilities;
 
 .tag {
-    @apply border rounded-xl p-2 font-bold md:text-2xl;
+  @apply border rounded-xl p-2 font-bold md:text-2xl;
 }
 
 .link-button {
-    @apply border rounded-xl py-2 px-4 text-2xl bg-black font-bold hover:bg-white hover:text-background hover:border-background
+  @apply border rounded-xl py-2 px-4 text-2xl bg-black font-bold hover:bg-white hover:text-background hover:border-background;
 }
 
 .active {
-    @apply bg-white text-black flex-grow rounded-2xl
+  @apply bg-white text-black flex-grow rounded-2xl;
 }
