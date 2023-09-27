@@ -6,12 +6,7 @@ import { Project } from ".";
 export function Projects() {
   return (
     <div className="text-center">
-      <Carousel
-        showStatus={false}
-        infiniteLoop
-        showThumbs={false}
-        className="w-10/12 mx-auto"
-      >
+      <Carousel showStatus={false} infiniteLoop showThumbs={false}>
         <Project
           description={spotifyTrackerDescription}
           image={spotifyTrackerImage}

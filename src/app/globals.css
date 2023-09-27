@@ -9,7 +9,7 @@
 }
 
 .tag-sm {
-  @apply border rounded-lg p-1 font-bold text-lg w-fit;
+  @apply border rounded-lg p-1 font-bold text-lg w-auto;
 }
 
 .active {
