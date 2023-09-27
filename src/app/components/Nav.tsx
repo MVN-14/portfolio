@@ -4,7 +4,7 @@ import { MouseEventHandler } from "react";
 
 export type NavItem = "Projects" | "Contact" | "Experience";
 
-export default function Nav({
+export function Nav({
   onChange,
   selectedItem,
 }: {

@@ -1,3 +1,3 @@
-export default function Education() {
+export function Education() {
   return <>Education Page</>;
 }

@@ -3,7 +3,7 @@ import guitarTuner from "../../../img/guitar-tuner.jpg";
 import { Carousel } from "react-responsive-carousel";
 import { Project } from ".";
 
-export default function Projects() {
+export function Projects() {
   return (
     <div className="text-center">
       <h1 className="text-6xl pt-16 pb-5">My Projects</h1>

@@ -2,7 +2,7 @@ import Image, { StaticImageData } from "next/image";
 import Link from "next/link";
 import githubSvg from "../../../img/github-mark.svg";
 
-export default function Project({
+export function Project({
   name,
   image,
   description,

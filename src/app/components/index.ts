@@ -1,7 +1,8 @@
-export { default as Education } from "./Education";
-export { default as Projects } from "./Projects";
-export { default as Nav } from "./Nav";
-export { default as Header } from "./Header";
-export { default as Project } from "./Project";
-export { default as Experience } from "./Experience";
-export { default as Contact } from "./Contact";
+export { Card } from "./Card";
+export { Contact } from "./Contact";
+export { Education } from "./Education";
+export { Experience } from "./Experience";
+export { Header } from "./Header";
+export { Nav } from "./Nav";
+export { Project } from "./Project";
+export { Projects } from "./Projects";
