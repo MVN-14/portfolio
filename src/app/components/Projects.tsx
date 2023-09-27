@@ -8,7 +8,7 @@ export default function Projects() {
     <div className="text-center pb-5">
       <h1 className="text-6xl pt-16 pb-5">My Projects</h1>
 
-      <Carousel>
+      <Carousel showStatus={false} infiniteLoop>
         <Project
           description={spotifyTrackerDescription}
           image={spotifyTrackerImage}
