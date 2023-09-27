@@ -2,14 +2,7 @@
 import { Parallax, ParallaxLayer } from "@react-spring/parallax";
 import backgroundImg from "../../img/background.jpg";
 import { useState } from "react";
-import {
-  Education,
-  Projects,
-  Header,
-  Nav,
-  Experience,
-  Footer,
-} from "./components";
+import { Education, Projects, Header, Nav, Experience } from "./components";
 import { NavItem } from "./components/Nav";
 
 export default function Home() {
@@ -28,7 +21,7 @@ export default function Home() {
           }}
         ></ParallaxLayer>
 
-        <ParallaxLayer speed={3} factor={0.2}>
+        <ParallaxLayer speed={3} factor={1}>
           <Header />
         </ParallaxLayer>
 
@@ -52,9 +45,6 @@ export default function Home() {
             {navItem === "Projects" && <Projects />}
             {navItem === "Education" && <Education />}
             {navItem === "Experience" && <Experience />}
-          </div>
-          <div className="h-full">
-            <Footer />
           </div>
         </ParallaxLayer>
       </Parallax>
