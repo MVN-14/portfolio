@@ -1,3 +1,5 @@
+@import url("../../node_modules/react-responsive-carousel/lib/styles/carousel.min.css");
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -7,7 +9,7 @@
 }
 
 .link-button {
-    @apply border rounded-xl p-2 text-2xl bg-black hover:cursor-pointer hover:bg-transparent
+    @apply border rounded-xl py-2 px-4 text-2xl bg-black font-bold hover:bg-white hover:text-background hover:border-background
 }
 
 .active {

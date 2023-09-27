@@ -21,13 +21,13 @@ export default function Home() {
           }}
         ></ParallaxLayer>
 
-        <ParallaxLayer speed={3} factor={1}>
+        <ParallaxLayer speed={3} factor={0.5}>
           <Header />
         </ParallaxLayer>
 
         <ParallaxLayer
           speed={3}
-          factor={1}
+          factor={0.2}
           offset={1}
           sticky={{ start: 1, end: 2 }}
         >
@@ -38,10 +38,7 @@ export default function Home() {
             }}
             selectedItem={navItem}
           />
-        </ParallaxLayer>
-
-        <ParallaxLayer offset={1} speed={0.5}>
-          <div className=" px-24 pt-14">
+          <div className=" px-24">
             {navItem === "Projects" && <Projects />}
             {navItem === "Education" && <Education />}
             {navItem === "Experience" && <Experience />}
