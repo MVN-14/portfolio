@@ -13,7 +13,7 @@ import {
 import { NavItem } from "./components/Nav";
 
 export default function Home() {
-  const [navItem, setNavItem] = useState<NavItem>("Experience");
+  const [navItem, setNavItem] = useState<NavItem>("Projects");
 
   return (
     <div>
@@ -52,6 +52,9 @@ export default function Home() {
             {navItem === "Projects" && <Projects />}
             {navItem === "Education" && <Education />}
             {navItem === "Experience" && <Experience />}
+          </div>
+          <div className="h-full">
+            <Footer />
           </div>
         </ParallaxLayer>
       </Parallax>
