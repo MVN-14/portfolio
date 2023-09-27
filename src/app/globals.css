@@ -1,3 +1,15 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.tag {
+    @apply border rounded-xl p-2 font-bold md:text-2xl;
+}
+
+.link-button {
+    @apply border rounded-xl p-2 text-2xl bg-black hover:cursor-pointer hover:bg-transparent
+}
+
+.active {
+    @apply bg-white text-black flex-grow rounded-2xl
+}

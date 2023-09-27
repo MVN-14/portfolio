@@ -1,4 +1,4 @@
-export default function header() {
+export default function Header() {
   return (
     <div className="pt-56  ps-10 xl:ps-24 text-2xl xl:text-3xl">
       <h1 className=" xl:text-8xl md:text-6xl text-4xl">
@@ -8,6 +8,7 @@ export default function header() {
         I am passionate about building software that adheres to modern best
         practices and standards.
       </p>
+      <p className="pt-56">Check out my work below!</p>
     </div>
   );
 }
