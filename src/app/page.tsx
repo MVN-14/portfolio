@@ -33,11 +33,9 @@ export default function Home() {
             }}
             selectedItem={selectedNavItem}
           />
-          <div className="xl:px-24 xl:w-10/12 mx-auto pt-14">
-            {selectedNavItem === "Projects" && <Projects />}
-            {selectedNavItem === "Experience" && <Experience />}
-            {selectedNavItem === "Contact" && <Contact />}
-          </div>
+          {selectedNavItem === "Projects" && <Projects />}
+          {selectedNavItem === "Experience" && <Experience />}
+          {selectedNavItem === "Contact" && <Contact />}
         </ParallaxLayer>
       </Parallax>
     </div>

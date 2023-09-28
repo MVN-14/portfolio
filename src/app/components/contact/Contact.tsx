@@ -1,5 +1,4 @@
 import { Card, LinkLabel } from "..";
-import Image from "next/image";
 import gitHubIcon from "/img/github-icon-white.png";
 import emailIcon from "/img/email.png";
 import linkedinIcon from "/img/linkedin.png";
@@ -17,7 +16,7 @@ export function Contact() {
         <LinkLabel
           label="LinkedIn"
           icon={linkedinIcon}
-          link="www.linkedin.com/in/michael-nogueira-543a99219"
+          link="https://www.linkedin.com/in/michael-nogueira-543a99219"
         />
 
         <LinkLabel
