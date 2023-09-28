@@ -1,6 +1,6 @@
 import Image, { StaticImageData } from "next/image";
 import Link from "next/link";
-import githubSvg from "img/github-mark.svg";
+import githubSvg from "img/github-icon-white.png";
 import { Card } from ".";
 
 export function Project({
@@ -22,7 +22,7 @@ export function Project({
           src={image}
           alt={`${name} image`}
           style={{
-            width: "40%",
+            width: "55%",
             height: "auto",
           }}
         ></Image>
@@ -31,16 +31,17 @@ export function Project({
           <Link
             href={githubLink}
             className="mx-auto flex border-black bg-white text-black w-36 text-xl p-2 rounded lg justify-around"
+            target="_blank"
           >
             <Image
               src={githubSvg}
               style={{
-                width: "30px",
+                width: "35px",
                 height: "auto",
               }}
               alt="Github Logo"
             />
-            <p className="my-auto">Github</p>
+            <p className="my-auto">Source</p>
           </Link>
         )}
         <p className="py-5 text-2xl w-3/4 mx-auto">{description}</p>

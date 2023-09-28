@@ -1,13 +1,13 @@
 import { Card } from ".";
 import Image from "next/image";
-import gitHubIcon from "/img/github-mark.svg";
+import gitHubIcon from "/img/github-icon-white.png";
 import emailIcon from "/img/email.png";
 import linkedinIcon from "/img/linkedin.png";
 
 export function Contact() {
   return (
     <Card>
-      <div className="grid grid-cols-3 p-10 text-3xl gap-4 gap-x-5">
+      <div className="grid grid-cols-3 p-10 text-3xl gap-4 pt-24">
         <div className="flex justify-end align-middle">
           <label className="font-bold text-right pe-2">Email</label>
 
@@ -22,7 +22,13 @@ export function Contact() {
             }}
           ></Image>
         </div>
-        <p className="col-span-2">mvn_14@outlook.com</p>
+        <a
+          className="col-span-2"
+          href="mailto:mvn_14@outlook.com"
+          target="_blank"
+        >
+          - mvn_14@outlook.com
+        </a>
         <div className="flex justify-end align-middle">
           <label className=" pe-2 font-bold text-right">LinkedIn</label>
           <Image
@@ -39,8 +45,9 @@ export function Contact() {
         <a
           className="col-span-2"
           href="www.linkedin.com/in/michael-nogueira-543a99219"
+          target="_blank"
         >
-          www.linkedin.com/in/michael-nogueira-543a99219
+          - www.linkedin.com/in/michael-nogueira-543a99219
         </a>
 
         <div className="flex justify-end">
@@ -48,11 +55,15 @@ export function Contact() {
           <Image
             src={gitHubIcon}
             alt="GitHub Logo"
-            style={{ width: "35px", height: "30" }}
+            style={{ width: "35px", height: "auto" }}
           ></Image>
         </div>
-        <a className="col-span-2" href="https://github.com/MVN-14">
-          https://github.com/MVN-14
+        <a
+          className="col-span-2"
+          href="https://github.com/MVN-14"
+          target="_blank"
+        >
+          - https://github.com/MVN-14
         </a>
       </div>
     </Card>

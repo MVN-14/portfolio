@@ -12,7 +12,7 @@ export function Nav({
   selectedItem: NavItem;
 }) {
   return (
-    <div className="bg-background w-full mx-auto h-10 border-black rounded-xl flex text-xl md:text-2xl gap-5">
+    <div className="bg-background w-full mx-auto h-14 border-black rounded-xl flex text-xl md:text-2xl gap-5">
       <button
         className={`${selectedItem == "Projects" ? "active" : ""} w-1/3`}
         onClick={onChange}

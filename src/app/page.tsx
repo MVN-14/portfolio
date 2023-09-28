@@ -21,11 +21,11 @@ export default function Home() {
           }}
         ></ParallaxLayer>
 
-        <ParallaxLayer speed={2} factor={1}>
+        <ParallaxLayer speed={1} factor={1}>
           <Header />
         </ParallaxLayer>
 
-        <ParallaxLayer speed={3} factor={1} offset={1}>
+        <ParallaxLayer speed={2} factor={1} offset={1}>
           <Nav
             onChange={(e) => {
               const button = e.target as HTMLButtonElement;
@@ -33,8 +33,7 @@ export default function Home() {
             }}
             selectedItem={selectedNavItem}
           />
-          <h1 className="text-6xl pt-8 pb-8 text-center">{`My ${selectedNavItem}`}</h1>
-          <div className=" px-24 w-10/12 mx-auto">
+          <div className="px-24 w-10/12 mx-auto pt-14">
             {selectedNavItem === "Projects" && <Projects />}
             {selectedNavItem === "Experience" && <Experience />}
             {selectedNavItem === "Contact" && <Contact />}
