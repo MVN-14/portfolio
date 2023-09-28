@@ -28,7 +28,7 @@ export function Project({
           style={{
             width: "50%",
             height: "auto",
-            minWidth: "400px",
+            minWidth: "350px",
           }}
         ></Image>
 

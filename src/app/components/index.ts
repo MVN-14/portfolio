@@ -6,3 +6,4 @@ export { Nav } from "./Nav";
 export { Project } from "./Project";
 export { Projects } from "./Projects";
 export { ImagePanel } from "./ImagePanel";
+export { JobPanel } from "./JobPanel";
