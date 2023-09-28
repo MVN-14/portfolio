@@ -33,7 +33,7 @@ export default function Home() {
             }}
             selectedItem={selectedNavItem}
           />
-          <div className="px-24 w-10/12 mx-auto pt-14">
+          <div className="xl:px-24 xl:w-10/12 mx-auto pt-14">
             {selectedNavItem === "Projects" && <Projects />}
             {selectedNavItem === "Experience" && <Experience />}
             {selectedNavItem === "Contact" && <Contact />}

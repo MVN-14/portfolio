@@ -12,9 +12,13 @@ export function Project({
 }: PageProps) {
   return (
     <Card>
-      <div className="flex justify-between px-5 py-2 border-background border-b-8">
-        <h1 className="my-auto text-4xl">{name}</h1>
-        <h1 className="flex flex-row gap-2">{createTags(tags)}</h1>
+      <div className="lg:flex lg:justify-between px-5 py-2 border-background border-b-8">
+        <h1 className="my-auto text-2xl lg:text-4xl w-full lg:text-left">
+          {name}
+        </h1>
+        <h1 className="flex flex-row gap-2 justify-center">
+          {createTags(tags)}
+        </h1>
       </div>
       <div className="flex-col justify-between">
         <Image
@@ -22,15 +26,16 @@ export function Project({
           src={image}
           alt={`${name} image`}
           style={{
-            width: "55%",
+            width: "50%",
             height: "auto",
+            minWidth: "400px",
           }}
         ></Image>
 
         {githubLink && (
           <Link
             href={githubLink}
-            className="mx-auto flex border-black bg-white text-black w-36 text-xl p-2 rounded lg justify-around"
+            className="mx-auto flex border-black bg-white text-black w-36 text-xl p-1 lg:p-2 rounded lg justify-around"
             target="_blank"
           >
             <Image
@@ -44,7 +49,7 @@ export function Project({
             <p className="my-auto">Source</p>
           </Link>
         )}
-        <p className="py-5 text-2xl w-3/4 mx-auto">{description}</p>
+        <p className="py-5 text-xl lg:text-2xl w-3/4 mx-auto">{description}</p>
       </div>
     </Card>
   );
@@ -60,7 +65,10 @@ type PageProps = {
 
 function createTags(tags: string[]) {
   return tags.map((tag) => (
-    <span key={tag} className="border-2 rounded-lg p-2 text-xl">
+    <span
+      key={tag}
+      className="border lg:border-2 rounded-lg p-1 lg:p-2 text-sm lg:text-xl"
+    >
       {tag}
     </span>
   ));

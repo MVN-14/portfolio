@@ -28,7 +28,7 @@ export function Projects() {
           description={portfolioDescription}
           image={portfolioImage}
           name="This Portfolio"
-          tags={["NextJS 13", "React", "TypeScript", "Tailwind"]}
+          tags={["NextJS", "React", "TypeScript", "Tailwind"]}
           githubLink="https://github.com/MVN-14/portfolio"
         />
       </Carousel>

@@ -11,24 +11,26 @@ export function Nav({
   onChange: MouseEventHandler<HTMLButtonElement>;
   selectedItem: NavItem;
 }) {
+  const activeClass = "bg-white text-black flex-grow rounded-2xl";
+
   return (
     <div className="bg-background w-full mx-auto h-14 border-black rounded-xl flex text-xl md:text-2xl gap-5">
       <button
-        className={`${selectedItem == "Projects" ? "active" : ""} w-1/3`}
+        className={`${selectedItem == "Projects" ? activeClass : ""} w-1/3`}
         onClick={onChange}
       >
         Projects
       </button>
 
       <button
-        className={`${selectedItem == "Experience" ? "active" : ""} w-1/3`}
+        className={`${selectedItem == "Experience" ? activeClass : ""} w-1/3`}
         onClick={onChange}
       >
         Experience
       </button>
 
       <button
-        className={`${selectedItem == "Contact" ? "active" : ""} w-1/3`}
+        className={`${selectedItem == "Contact" ? activeClass : ""} w-1/3`}
         onClick={onChange}
       >
         Contact

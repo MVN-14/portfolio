@@ -33,13 +33,13 @@ export function Experience() {
                 <p className="text-2xl pt-2">Application Developer</p>
                 <p className="text-xl pt-2">May 2022 - August 2022</p>
                 <div className="flex gap-2">
-                  {["Angular", ".NET", "Bootstrap", "MSSQL", "WebForms"].map(
-                    (tag) => (
-                      <p className="tag-sm" key={tag}>
-                        {tag}
-                      </p>
-                    )
-                  )}
+                  {createTags([
+                    "Angular",
+                    ".NET",
+                    "Bootstrap",
+                    "MSSQL",
+                    "WebForms",
+                  ])}
                 </div>
               </div>
             </ImagePanel>
@@ -50,11 +50,7 @@ export function Experience() {
                 <p className="text-2xl pt-2">Software Developer</p>
                 <p className="text-xl pt-2">January 2023 - April 2023</p>
                 <div className="flex gap-2">
-                  {["C++", "SQLite", "wxWidgets"].map((tag) => (
-                    <span className="tag-sm" key={tag}>
-                      {tag}
-                    </span>
-                  ))}
+                  {createTags(["C++", "SQLite", "wxWidgets"])}
                 </div>
               </div>
             </ImagePanel>
@@ -68,13 +64,12 @@ export function Experience() {
                 </p>
                 <p className="text-xl pt-2">January 2023 - April 2023</p>
                 <div className="flex gap-2">
-                  {["Powershell", "Cloud Automation", "Azure DevOps", "C#"].map(
-                    (tag) => (
-                      <span className="tag-sm" key={tag}>
-                        {tag}
-                      </span>
-                    )
-                  )}
+                  {createTags([
+                    "Powershell",
+                    "Cloud Automation",
+                    "Azure DevOps",
+                    "C#",
+                  ])}
                 </div>
               </div>
             </ImagePanel>
@@ -83,4 +78,12 @@ export function Experience() {
       </div>
     </Card>
   );
+}
+
+function createTags(tags: string[]) {
+  return tags.map((tag) => (
+    <span key={tag} className="border rounded-lg p-1 font-bold text-lg w-auto">
+      {tag}
+    </span>
+  ));
 }
