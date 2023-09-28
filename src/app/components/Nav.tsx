@@ -25,14 +25,18 @@ export function Nav({
       </button>
 
       <button
-        className={`${selectedItem == "Experience" ? activeClass : ""} w-1/3`}
+        className={`${
+          selectedItem == "Experience" ? activeClass : ""
+        } ${buttonClass}`}
         onClick={onChange}
       >
         Experience
       </button>
 
       <button
-        className={`${selectedItem == "Contact" ? activeClass : ""} w-1/3`}
+        className={`${
+          selectedItem == "Contact" ? activeClass : ""
+        } ${buttonClass}`}
         onClick={onChange}
       >
         Contact
