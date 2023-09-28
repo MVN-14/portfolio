@@ -1,7 +1,7 @@
 import Image, { StaticImageData } from "next/image";
 import Link from "next/link";
 import githubSvg from "img/github-icon-white.png";
-import { Card } from ".";
+import { Card } from "..";
 
 export function Project({
   name,
@@ -49,7 +49,9 @@ export function Project({
             <p className="my-auto">Source</p>
           </Link>
         )}
-        <p className="py-5 text-xl lg:text-2xl w-3/4 mx-auto">{description}</p>
+        <p className="py-5 sm:text-xl lg:text-2xl w-3/4 mx-auto text-sm">
+          {description}
+        </p>
       </div>
     </Card>
   );

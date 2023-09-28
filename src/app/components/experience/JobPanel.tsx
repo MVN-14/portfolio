@@ -1,5 +1,5 @@
 import { StaticImageData } from "next/image";
-import { ImagePanel } from ".";
+import { ImagePanel } from "./ImagePanel";
 
 export function JobPanel({
   image,

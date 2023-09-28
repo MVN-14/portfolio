@@ -1,4 +1,4 @@
-import { Card, ImagePanel, JobPanel } from ".";
+import { Card, ImagePanel, JobPanel } from "..";
 import fanshaweImage from "img/fanshawe-cropped.png";
 import atlasLogo from "img/atlas-apex-logo.jpg";
 import stepLogo from "img/step-software-logo.png";

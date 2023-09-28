@@ -1,9 +1,10 @@
-export { Card } from "./Card";
-export { Contact } from "./Contact";
-export { Experience } from "./Experience";
+export { Card } from "./shared/Card";
+export { Contact } from "./contact/Contact";
+export { Experience } from "./experience/Experience";
 export { Header } from "./Header";
 export { Nav } from "./Nav";
-export { Project } from "./Project";
-export { Projects } from "./Projects";
-export { ImagePanel } from "./ImagePanel";
-export { JobPanel } from "./JobPanel";
+export { Project } from "./projects/Project";
+export { Projects } from "./projects/Projects";
+export { ImagePanel } from "./experience/ImagePanel";
+export { JobPanel } from "./experience/JobPanel";
+export { LinkLabel } from "./contact/LinkLabel";

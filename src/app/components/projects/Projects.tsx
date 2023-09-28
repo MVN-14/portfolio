@@ -2,7 +2,7 @@ import spotifyTrackerImage from "img/spotify-tracker-top-artists.png";
 import tunerExtentionImage from "img/guitar-tuner.jpg";
 import portfolioImage from "img/portfolio.png";
 import { Carousel } from "react-responsive-carousel";
-import { Project } from ".";
+import { Project } from "./Project";
 
 export function Projects() {
   return (
