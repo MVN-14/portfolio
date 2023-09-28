@@ -28,7 +28,7 @@ export function Experience() {
                 <a href="https://www.atlas-apex.com/">Atlas-Apex Roofing</a>
                 <p className="text-2xl pt-2">Application Developer</p>
                 <p className="text-xl pt-2">May 2022 - August 2022</p>
-                <div className="flex flex-wrap">
+                <div className="flex gap-2">
                   {["Angular", ".NET", "Bootstrap", "MSSQL", "WebForms"].map(
                     (tag) => (
                       <p className="tag-sm" key={tag}>
@@ -45,7 +45,7 @@ export function Experience() {
                 <a href="https://www.stepsoftware.com/">STEP Software</a>
                 <p className="text-2xl pt-2">Software Developer</p>
                 <p className="text-xl pt-2">January 2023 - April 2023</p>
-                <div className="flex flex-wrap">
+                <div className="flex gap-2">
                   {["C++", "SQLite", "wxWidgets"].map((tag) => (
                     <span className="tag-sm" key={tag}>
                       {tag}
@@ -63,8 +63,8 @@ export function Experience() {
                   Cloud Automation Platform Developer
                 </p>
                 <p className="text-xl pt-2">January 2023 - April 2023</p>
-                <div className="flex flex-wrap">
-                  {["Powershell", "Cloud Automation", "Azure DevOps"].map(
+                <div className="flex gap-2">
+                  {["Powershell", "Cloud Automation", "Azure DevOps", "C#"].map(
                     (tag) => (
                       <span className="tag-sm" key={tag}>
                         {tag}
