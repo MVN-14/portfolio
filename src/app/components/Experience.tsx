@@ -10,7 +10,11 @@ export function Experience() {
       <div className="p-10">
         <h1 className="text-4xl pb-2">Education</h1>
 
-        <ImagePanel image={fanshaweImage} alt="Fanshawe College Logo">
+        <ImagePanel
+          image={fanshaweImage}
+          alt="Fanshawe College Logo"
+          imageStyle={{ transform: "translateX(20px)" }}
+        >
           <div className="ps-5 text-2xl">
             <p>Fanshawe College, London, Ontario</p>
             <p>September 2019 - April 2023</p>
