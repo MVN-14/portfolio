@@ -11,18 +11,21 @@ export function Contact() {
           label="Email"
           icon={emailIcon}
           link="mailto:mvn_14@outlook.com"
+          linkText="mvn_14@outlook.com"
         />
 
         <LinkLabel
           label="LinkedIn"
           icon={linkedinIcon}
           link="https://www.linkedin.com/in/michael-nogueira-543a99219"
+          linkText="linkedin.com/in/michael-nogueira-543a99219"
         />
 
         <LinkLabel
           label="GitHub"
           icon={gitHubIcon}
           link="https://github.com/MVN-14"
+          linkText="github.com/MVN-14"
         />
       </div>
     </Card>

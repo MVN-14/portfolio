@@ -1,6 +1,6 @@
 import Image, { StaticImageData } from "next/image";
 
-export function LinkLabel({ label, icon, link }: PageProps) {
+export function LinkLabel({ label, icon, link, linkText }: PageProps) {
   return (
     <>
       <div className="flex md:justify-end align-middle pt-3 md:py-2 pe-5">
@@ -17,7 +17,7 @@ export function LinkLabel({ label, icon, link }: PageProps) {
         ></Image>
       </div>
       <a className="col-span-2 my-auto" href={link} target="_blank">
-        {link}
+        {linkText}
       </a>
     </>
   );
@@ -27,4 +27,5 @@ type PageProps = {
   label: string;
   icon: StaticImageData;
   link: string;
+  linkText: string;
 };

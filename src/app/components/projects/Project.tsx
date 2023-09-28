@@ -35,7 +35,7 @@ export function Project({
         {githubLink && (
           <Link
             href={githubLink}
-            className="mx-auto flex border-black bg-white text-black w-36 text-xl p-1 lg:p-2 rounded lg justify-around"
+            className="mx-auto flex border-black bg-white text-black  w-28 md:w-36 text-xl md:p-2 rounded lg justify-around"
             target="_blank"
           >
             <Image
