@@ -18,7 +18,6 @@ export function Projects() {
                     name="Spotify Tracker"
                     tags={["Angular", "RxJS", "Bootstrap", "Node", "Express"]}
                     links={spotifyTrackerLinks}
-                    key={spotifyTrackerDescription}
                 />
 
                 <Project
@@ -27,7 +26,6 @@ export function Projects() {
                     name="Tuner Extention"
                     tags={["JavaScript", "HTML", "ManifestV3"]}
                     links={tunerExtentionLinks}
-                    key={tunerExtentionDescription}
                 />
 
                 <Project
@@ -36,7 +34,6 @@ export function Projects() {
                     name="This Portfolio"
                     tags={["NextJS", "React", "TypeScript", "Tailwind"]}
                     links={portfolioLinks}
-                    key={portfolioDescription}
                 />
 
             </Carousel>
