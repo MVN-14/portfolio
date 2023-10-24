@@ -29,7 +29,7 @@
       links={[
         {text: "GitHub", href: "https://github.com/MVN-14/SpotifyTracker", logo: githubLogo}
       ]}
-      tags={["Angular", "RxJS", "Node", "Express", "TypeScript", "BootStrap"]}
+      tags={["Angular", "RxJS", "Express", "TypeScript", "BootStrap"]}
 		/>
     <Project
 			name="Guitar Tuner Extension"
