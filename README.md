@@ -1,4 +1,4 @@
-*OLD VERSION*
+### (OLD VERSION)
 
 # My personal dev portfolio
 
