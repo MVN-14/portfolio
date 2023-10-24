@@ -20,7 +20,7 @@
         {text: "View Live", href: "https://cah.mnogueira.ca", logo: vercelLogo },
         {text: "GitHub", href: "https://github.com/MVN-14/CAHClient", logo: githubLogo}
       ]}
-    tags={["svelte", "svelteKit", "socket.io", "TypeScript"]}
+    tags={["svelte", "svelteKit", "socket.io", "TypeScript", "CSS"]}
 		/>
 		<Project
 			name="Spotify Tracker"
@@ -29,7 +29,7 @@
       links={[
         {text: "GitHub", href: "https://github.com/MVN-14/SpotifyTracker", logo: githubLogo}
       ]}
-      tags={["Angular", "RxJS", "Node", "Express", "TypeScript"]}
+      tags={["Angular", "RxJS", "Node", "Express", "TypeScript", "BootStrap"]}
 		/>
     <Project
 			name="Guitar Tuner Extension"

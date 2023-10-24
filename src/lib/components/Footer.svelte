@@ -7,8 +7,9 @@
 
 <div id="container">
 	<div id="links">
-		<a href={resume}>View Resume</a>
-		<a href={transcript}>View Transcript</a>
+		<a href={resume} target="_blank">Resume</a>
+		<a href={transcript} target="_blank">Transcript</a>
+		<a href="mailto:mvn_14@outlook.com">Email</a>
 	</div>
 
 	<div id="icons">

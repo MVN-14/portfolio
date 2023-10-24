@@ -8,8 +8,10 @@
     I am a motivated software developer and Fanshawe College CPA/2 graduate that
     is eager to get into the industry. After starting the Computer Programmer / Analyst
     program in 2019 I fell in love with coding and haven't stopped since. I love diving
-    into new technologies and learning new ways to build cool software. I
-    develop on ubuntu linux running i3 as my window manager and using neovim
+    into new technologies and learning new ways to build cool software.
+    <br />
+    <br />
+    I develop on ubuntu linux running i3 as my window manager and using neovim
     as my editor. This has sparked tons of learning experiences and an interest
     in writing bash scripts to customize my i3 environment and create efficient 
     development workflows. I have also been very interested in configuring my
@@ -19,12 +21,10 @@
     core understanding of HTML, CSS, and JavaScript. My main passions in my
     4 years of learning have been mostly C++ and web development, I enjoy 
     writing tools to streamline tasks, and writing applications
-    to solve problems I come across as a developer and or user.
+    to solve problems I come across as a developer and end user.
     <br />
     <br />
     I would love to discuss my passions and skills further and show you what I'm made of.
-
-
   </p>
 </div>
 
