@@ -13,10 +13,9 @@
     <br />
     I develop on ubuntu linux running i3 as my window manager and using neovim
     as my editor. This has sparked tons of learning experiences and an interest
-    in writing bash scripts to customize my i3 environment and create efficient 
-    development workflows. I have also been very interested in configuring my
-    neovim environment with lua and various plugins to turn my editor setup
-    into a fun ongoing interactive experience. I have lots of experience with
+    in writing bash scripts to customize my i3 environment and configuring my 
+    neovim environment with lua and various plugins to turn my dev setup
+    into a fun and efficient experience. I have lots of experience with
     web development using frameworks demonstrated in my projects, along with a 
     core understanding of HTML, CSS, and JavaScript. My main passions in my
     4 years of learning have been mostly C++ and web development, I enjoy 
