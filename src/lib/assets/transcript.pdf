@@ -1,0 +1,641 @@
+%PDF-1.4
+%”ÙÃ·
+% PDFsharp Version 1.32.2608.0 (verbose mode)
+% Creation date: 15/05/2023 21:50:45             
+% Creation time: 0.000 seconds                   
+% File size: 39892 bytes                         
+% Pages: 3                                       
+% Objects: 11                                    
+%--------------------------------------------------------------------------------------------------
+1 0 obj   % PdfSharp.Pdf.PdfDocumentInformation
+<<
+  /CreationDate (D:20230515215045-04'00')
+  /Creator (PDFsharp 1.32.2608-g \(www.pdfsharp.net\))
+  /Producer (PDFsharp 1.32.2608-g \(www.pdfsharp.net\))
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+2 0 obj   % PdfSharp.Pdf.Advanced.PdfCatalog
+<<
+  /Pages 3 0 R
+  /Type /Catalog
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+3 0 obj   % PdfSharp.Pdf.PdfPages
+<<
+  /Count 3
+  /Kids [7 0 R 9 0 R 11 0 R]
+  /Type /Pages
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+4 0 obj   % PdfSharp.Pdf.PdfArray
+[
+  /PDF /Text /ImageB /ImageC /ImageI
+]
+endobj
+%--------------------------------------------------------------------------------------------------
+5 0 obj   % PdfSharp.Pdf.PdfDictionary
+<<
+  /BaseFont /Courier
+  /Encoding /WinAnsiEncoding
+  /Subtype /Type1
+  /Type /Font
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+6 0 obj   % PdfSharp.Pdf.PdfDictionary
+<<
+  /Length 15521
+>>
+stream
+
+q 18.0 36 576.0 720.0 re W n
+q 20.0 -1025.424 572.0 1779.424 re W n
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 747.288 Td (                                                                                    Page ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 447.264 747.288 Td (1) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 452.088 747.288 Td ( of ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 471.312 747.288 Td (3) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 720.072 Td (               Michael Nogueira                                 Date Printed: May ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 413.712 720.072 Td (15) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 423.288 720.072 Td (, ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 432.864 720.072 Td (2023) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 711.0 Td (               ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 92.016 711.0 Td (7489) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 111.24 711.0 Td ( North River Line) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 701.928 Td (               Wallaceburg ON N) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 168.84 701.928 Td (8) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 173.664 701.928 Td (A ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 183.24 701.928 Td (4) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 188.064 701.928 Td (R) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 192.888 701.928 Td (4) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 197.712 701.928 Td (                           Student ID:   ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 394.56 701.928 Td (0888112) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 692.856 Td (               CANADA) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 683.784 Td (                                                                ESIS_NSN:) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 620.28 Td (                                           PROGRAM SUMMARY) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 602.136 Td (    Program: CPA) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 96.84 602.136 Td (2) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 101.664 602.136 Td ( Computer Programmer Analyst) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 593.064 Td (    Status:  Graduated) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 565.848 Td (    Course       Course Title                               Grade   Credit Units   Grade Points) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 547.704 Td (              ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 87.192 547.704 Td (2019) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 106.416 547.704 Td ( Fall) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 529.56 Td (    BUSI-) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 63.216 529.56 Td (1156) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 82.44 529.56 Td (    Strategies for Success                       B+         ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 370.512 529.56 Td (1.0) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 384.912 529.56 Td (            ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 442.512 529.56 Td (3.5) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 520.488 Td (    INFO-) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 63.216 520.488 Td (1214) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 82.44 520.488 Td (    Programming Fundamentals                     A+         ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 370.512 520.488 Td (6.0) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 384.912 520.488 Td (           ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 437.688 520.488 Td (25.2) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 511.416 Td (    INFO-) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 63.216 511.416 Td (1215) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 82.44 511.416 Td (    Database Fundamentals                        A          ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 370.512 511.416 Td (4.0) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 384.912 511.416 Td (           ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 437.688 511.416 Td (16.0) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 502.344 Td (    INFO-) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 63.216 502.344 Td (1216) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 82.44 502.344 Td (    Operating Syst Fundamentals-Programmers      A+         ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 370.512 502.344 Td (3.0) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 384.912 502.344 Td (           ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 437.688 502.344 Td (12.6) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 493.272 Td (    MATH-) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 63.216 493.272 Td (1202) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 82.44 493.272 Td (    Mathematics for Programmers                  A+         ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 370.512 493.272 Td (3.0) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 384.912 493.272 Td (           ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 437.688 493.272 Td (12.6) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 484.2 Td (    WRIT-) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 63.216 484.2 Td (1043) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 82.44 484.2 Td (    Reason & Writing ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 183.24 484.2 Td (1) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 188.064 484.2 Td ( for IT                    A          ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 370.512 484.2 Td (3.0) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 384.912 484.2 Td (           ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 437.688 484.2 Td (12.0) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 466.056 Td (    Term GPA:               ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 154.44 466.056 Td (4.10) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 173.664 466.056 Td (                    Term Totals:        ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 365.688 466.056 Td (20.0) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 384.912 466.056 Td (           ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 437.688 466.056 Td (81.9) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 447.912 Td (    Term Academic Standing: In Good Standing) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 438.84 Td (    Program:                CPA) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 168.84 438.84 Td (2) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 173.664 438.84 Td ( - Computer Programmer Analyst) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 420.696 Td (    Awards/Honors:          Dean's Honour Roll) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 402.552 Td (              ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 87.192 402.552 Td (2020) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 106.416 402.552 Td ( Winter) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 384.408 Td (    INFO-) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 63.216 384.408 Td (1156) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 82.44 384.408 Td (    Object Oriented Programming with C++         A+         ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 370.512 384.408 Td (4.0) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 384.912 384.408 Td (           ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 437.688 384.408 Td (16.8) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 375.336 Td (    INFO-) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 63.216 375.336 Td (1167) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 82.44 375.336 Td (    Business At the Speed of Light               A          ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 370.512 375.336 Td (3.0) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 384.912 375.336 Td (           ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 437.688 375.336 Td (12.0) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 366.264 Td (    INFO-) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 63.216 366.264 Td (1217) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 82.44 366.264 Td (    Web Design                                   A+         ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 370.512 366.264 Td (3.0) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 384.912 366.264 Td (           ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 437.688 366.264 Td (12.6) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 357.192 Td (    INFO-) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 63.216 357.192 Td (3104) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 82.44 357.192 Td (    Relational Databases & SQL                   A+         ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 370.512 357.192 Td (3.0) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 384.912 357.192 Td (           ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 437.688 357.192 Td (12.6) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 348.12 Td (    INFO-) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 63.216 348.12 Td (3120) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 82.44 348.12 Td (    Programming Commercial Game Engines          A+         ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 370.512 348.12 Td (3.0) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 384.912 348.12 Td (           ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 437.688 348.12 Td (12.6) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 339.048 Td (    INFO-) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 63.216 339.048 Td (3134) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 82.44 339.048 Td (    Object Oriented Programming With Java        A+         ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 370.512 339.048 Td (4.0) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 384.912 339.048 Td (           ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 437.688 339.048 Td (16.8) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 329.976 Td (    MGMT-) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 63.216 329.976 Td (3052) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 82.44 329.976 Td (    Understanding Workplace Behaviours           A          ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 370.512 329.976 Td (3.0) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 384.912 329.976 Td (           ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 437.688 329.976 Td (12.0) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 311.832 Td (    Term GPA:               ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 154.44 311.832 Td (4.15) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 173.664 311.832 Td (                    Term Totals:        ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 365.688 311.832 Td (23.0) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 384.912 311.832 Td (           ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 437.688 311.832 Td (95.4) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 293.688 Td (    Term Academic Standing: In Good Standing) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 284.616 Td (    Program:                CPA) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 168.84 284.616 Td (2) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 173.664 284.616 Td ( - Computer Programmer Analyst) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 266.472 Td (    Awards/Honors:          Dean's Honour Roll) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 248.328 Td (              ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 87.192 248.328 Td (2020) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 106.416 248.328 Td ( Fall) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 230.184 Td (    COMM-) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 63.216 230.184 Td (3077) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 82.44 230.184 Td (    Communications for IT                        D+         ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 370.512 230.184 Td (3.0) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 384.912 230.184 Td (            ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 442.512 230.184 Td (4.5) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 221.112 Td (    COOP-) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 63.216 221.112 Td (1020) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 82.44 221.112 Td (    Co-operative Education Employment Prep       P) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 212.04 Td (    INFO-) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 63.216 212.04 Td (1219) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 82.44 212.04 Td (    Network Fundamentals for Programmers         B+         ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 370.512 212.04 Td (3.0) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 384.912 212.04 Td (           ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 437.688 212.04 Td (10.5) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 202.968 Td (    INFO-) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 63.216 202.968 Td (3070) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 82.44 202.968 Td (    Client/Server Application Development        A+         ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 370.512 202.968 Td (3.0) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 384.912 202.968 Td (           ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 437.688 202.968 Td (12.6) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 193.896 Td (    INFO-) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 63.216 193.896 Td (3135) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 82.44 193.896 Td (    Data Structures & Algorithms                 B+         ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 370.512 193.896 Td (3.0) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 384.912 193.896 Td (           ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 437.688 193.896 Td (10.5) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 184.824 Td (    INFO-) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 63.216 184.824 Td (3140) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 82.44 184.824 Td (    Object Oriented Analysis & Modeling          A          ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 370.512 184.824 Td (3.0) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 384.912 184.824 Td (           ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 437.688 184.824 Td (12.0) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 175.752 Td (    INFO-) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 63.216 175.752 Td (5052) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 82.44 175.752 Td (    Advanced Databases                           B+         ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 370.512 175.752 Td (3.0) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 384.912 175.752 Td (           ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 437.688 175.752 Td (10.5) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 157.608 Td (    Term GPA:               ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 154.44 157.608 Td (3.37) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 173.664 157.608 Td (                    Term Totals:        ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 365.688 157.608 Td (19.0) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 384.912 157.608 Td (           ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 437.688 157.608 Td (60.6) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 139.464 Td (    Term Academic Standing: Conditional Continuation) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 130.392 Td (    Program:                CPA) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 168.84 130.392 Td (2) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 173.664 130.392 Td ( - Computer Programmer Analyst) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 112.248 Td (              ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 87.192 112.248 Td (2021) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 106.416 112.248 Td ( Summer) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 94.104 Td (                                                                      Continued next page...) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 85.032 Td ( \f ) Tj T* ET
+Q
+Q
+q 18.0 36 576.0 720.0 re W n
+Q
+endstream
+endobj
+%--------------------------------------------------------------------------------------------------
+7 0 obj   % PdfSharp.Pdf.PdfPage
+<<
+  /Contents 6 0 R
+  /Group
+  <<
+    /CS /DeviceRGB
+    /I false
+    /K false
+    /S /Transparency
+  >>
+  /MediaBox [0 0 612 792]
+  /Parent 3 0 R
+  /Resources
+  <<
+    /Font
+    <<
+      /F3 5 0 R
+    >>
+    /ProcSet 4 0 R
+    /XObject
+    <<
+    >>
+  >>
+  /Type /Page
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+8 0 obj   % PdfSharp.Pdf.PdfDictionary
+<<
+  /Length 16515
+>>
+stream
+
+q 18.0 36 576.0 720.0 re W n
+q 20.0 -308.752 572.0 1782.752 re W n
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 722.088 Td (                                                                                    Page ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 447.264 722.088 Td (2) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 452.088 722.088 Td ( of ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 471.312 722.088 Td (3) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 694.872 Td (               Michael Nogueira                                 Date Printed: May ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 413.712 694.872 Td (15) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 423.288 694.872 Td (, ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 432.864 694.872 Td (2023) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 685.8 Td (               ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 92.016 685.8 Td (7489) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 111.24 685.8 Td ( North River Line) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 676.728 Td (               Wallaceburg ON N) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 168.84 676.728 Td (8) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 173.664 676.728 Td (A ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 183.24 676.728 Td (4) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 188.064 676.728 Td (R) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 192.888 676.728 Td (4) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 197.712 676.728 Td (                           Student ID:   ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 394.56 676.728 Td (0888112) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 667.656 Td (               CANADA) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 658.584 Td (                                                                ESIS_NSN:) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 595.08 Td (    Course       Course Title                               Grade   Credit Units   Grade Points) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 567.864 Td (    INFO-) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 63.216 567.864 Td (3067) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 82.44 567.864 Td (    ASP.NET Programming with C#                  A+         ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 370.512 567.864 Td (3.0) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 384.912 567.864 Td (           ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 437.688 567.864 Td (12.6) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 558.792 Td (    INFO-) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 63.216 558.792 Td (3105) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 82.44 558.792 Td (    System Z COBOL Programming                   A+         ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 370.512 558.792 Td (3.0) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 384.912 558.792 Td (           ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 437.688 558.792 Td (12.6) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 549.72 Td (    INFO-) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 63.216 549.72 Td (3136) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 82.44 549.72 Td (    Mobile Development                           A+         ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 370.512 549.72 Td (3.0) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 384.912 549.72 Td (           ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 437.688 549.72 Td (12.6) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 540.648 Td (    INFO-) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 63.216 540.648 Td (3137) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 82.44 540.648 Td (    Software Design Patterns ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 221.688 540.648 Td (1) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 226.512 540.648 Td (                   A+         ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 370.512 540.648 Td (3.0) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 384.912 540.648 Td (           ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 437.688 540.648 Td (12.6) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 531.576 Td (    INFO-) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 63.216 531.576 Td (3138) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 82.44 531.576 Td (    Programming With Declarative Languages       A+         ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 370.512 531.576 Td (3.0) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 384.912 531.576 Td (           ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 437.688 531.576 Td (12.6) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 522.504 Td (    MGMT-) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 63.216 522.504 Td (3036) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 82.44 522.504 Td (    Professional Development-Career Planning     A          ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 370.512 522.504 Td (3.0) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 384.912 522.504 Td (           ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 437.688 522.504 Td (12.0) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 504.36 Td (    Term GPA:               ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 154.44 504.36 Td (4.17) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 173.664 504.36 Td (                    Term Totals:        ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 365.688 504.36 Td (18.0) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 384.912 504.36 Td (           ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 437.688 504.36 Td (75.0) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 486.216 Td (    Term Academic Standing: In Good Standing) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 477.144 Td (    Program:                CPA) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 168.84 477.144 Td (2) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 173.664 477.144 Td ( - Computer Programmer Analyst) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 459.0 Td (    Awards/Honors:          Dean's Honour Roll) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 440.856 Td (              ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 87.192 440.856 Td (2021) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 106.416 440.856 Td ( Fall) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 422.712 Td (    COOP-CPA) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 77.616 422.712 Td (2) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 82.44 422.712 Td (W   CPA) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 116.064 422.712 Td (2) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 120.888 422.712 Td ( Co-op Work Term                         P) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 404.568 Td (              ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 87.192 404.568 Td (2022) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 106.416 404.568 Td ( Winter) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 386.424 Td (    INDS-) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 63.216 386.424 Td (1092) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 82.44 386.424 Td (    It's About Time                              B          ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 370.512 386.424 Td (3.0) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 384.912 386.424 Td (            ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 442.512 386.424 Td (9.0) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 377.352 Td (    INFO-) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 63.216 377.352 Td (3112) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 82.44 377.352 Td (    Managing Software Projects-Applied ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 269.64 377.352 Td (1) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 274.464 377.352 Td (         B          ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 370.512 377.352 Td (3.0) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 384.912 377.352 Td (            ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 442.512 377.352 Td (9.0) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 368.28 Td (    INFO-) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 63.216 368.28 Td (3139) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 82.44 368.28 Td (    JavaScript                                   A+         ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 370.512 368.28 Td (3.0) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 384.912 368.28 Td (           ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 437.688 368.28 Td (12.6) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 359.208 Td (    INFO-) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 63.216 359.208 Td (3141) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 82.44 359.208 Td (    Mobile Development-Inter                     A+         ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 370.512 359.208 Td (3.0) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 384.912 359.208 Td (           ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 437.688 359.208 Td (12.6) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 350.136 Td (    INFO-) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 63.216 350.136 Td (5060) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 82.44 350.136 Td (    Component-based Programming with .NET        A+         ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 370.512 350.136 Td (3.0) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 384.912 350.136 Td (           ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 437.688 350.136 Td (12.6) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 341.064 Td (    INFO-) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 63.216 341.064 Td (5101) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 82.44 341.064 Td (    C# Advanced Topics                           A+         ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 370.512 341.064 Td (3.0) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 384.912 341.064 Td (           ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 437.688 341.064 Td (12.6) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 331.992 Td (    INFO-) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 63.216 331.992 Td (5125) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 82.44 331.992 Td (    Software Design Patterns ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 221.688 331.992 Td (2) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 226.512 331.992 Td (                   A+         ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 370.512 331.992 Td (3.0) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 384.912 331.992 Td (           ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 437.688 331.992 Td (12.6) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 313.848 Td (    Term GPA:               ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 154.44 313.848 Td (3.86) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 173.664 313.848 Td (                    Term Totals:        ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 365.688 313.848 Td (21.0) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 384.912 313.848 Td (           ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 437.688 313.848 Td (81.0) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 295.704 Td (    Term Academic Standing: In Good Standing) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 286.632 Td (    Program:                CPA) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 168.84 286.632 Td (2) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 173.664 286.632 Td ( - Computer Programmer Analyst) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 268.488 Td (              ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 87.192 268.488 Td (2022) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 106.416 268.488 Td ( Summer) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 250.344 Td (    COOP-CPA) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 77.616 250.344 Td (2) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 82.44 250.344 Td (W   CPA) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 116.064 250.344 Td (2) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 120.888 250.344 Td ( Co-op Work Term                         P) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 232.2 Td (                                             CREDENTIALS) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 214.056 Td (                 Program:        Computer Programmer Analyst) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 204.984 Td (                                 Co-op Endorsed) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 195.912 Td (                 Degree:         Ontario College Advanced Dipl Awarded April ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 389.664 195.912 Td (21) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 399.24 195.912 Td (, ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 408.816 195.912 Td (2023) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 186.84 Td (                 Program GPA:    ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 178.416 186.84 Td (3.90) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 197.64 186.84 Td (            Program Totals:       ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 360.864 186.84 Td (121.00) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 168.696 Td (              ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 87.192 168.696 Td (2022) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 106.416 168.696 Td ( Fall) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 150.552 Td (    INDS-) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 63.216 150.552 Td (1033) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 82.44 150.552 Td (    Video Game Theory                            C+         ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 370.512 150.552 Td (3.0) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 384.912 150.552 Td (            ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 442.512 150.552 Td (7.5) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 141.48 Td (    INFO-) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 63.216 141.48 Td (3068) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 82.44 141.48 Td (    Secure Computing                             B          ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 370.512 141.48 Td (3.0) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 384.912 141.48 Td (            ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 442.512 141.48 Td (9.0) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 132.408 Td (    INFO-) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 63.216 132.408 Td (5059) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 82.44 132.408 Td (    Java EE Client/Server Applications           A+         ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 370.512 132.408 Td (3.0) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 384.912 132.408 Td (           ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 437.688 132.408 Td (12.6) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 123.336 Td (    INFO-) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 63.216 123.336 Td (5103) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 82.44 123.336 Td (    Managing Software Projects-Applied ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 269.64 123.336 Td (2) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 274.464 123.336 Td (         A          ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 370.512 123.336 Td (5.0) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 384.912 123.336 Td (           ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 437.688 123.336 Td (20.0) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 114.264 Td (    INFO-) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 63.216 114.264 Td (5104) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 82.44 114.264 Td (    C++ Advanced Topics                          A+         ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 370.512 114.264 Td (3.0) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 384.912 114.264 Td (           ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 437.688 114.264 Td (12.6) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 105.192 Td (    INFO-) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 63.216 105.192 Td (5126) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 82.44 105.192 Td (    Mobile Development-Adv                       A+         ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 370.512 105.192 Td (3.0) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 384.912 105.192 Td (           ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 437.688 105.192 Td (12.6) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 87.048 Td (    Term GPA:               ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 154.44 87.048 Td (3.72) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 173.664 87.048 Td (                    Term Totals:        ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 365.688 87.048 Td (20.0) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 384.912 87.048 Td (           ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 437.688 87.048 Td (74.3) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 68.904 Td (                                                                      Continued next page...) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 59.832 Td ( \f ) Tj T* ET
+Q
+Q
+q 18.0 36 576.0 720.0 re W n
+Q
+endstream
+endobj
+%--------------------------------------------------------------------------------------------------
+9 0 obj   % PdfSharp.Pdf.PdfPage
+<<
+  /Contents 8 0 R
+  /Group
+  <<
+    /CS /DeviceRGB
+    /I false
+    /K false
+    /S /Transparency
+  >>
+  /MediaBox [0 0 612 792]
+  /Parent 3 0 R
+  /Resources
+  <<
+    /Font
+    <<
+      /F3 5 0 R
+    >>
+    /ProcSet 4 0 R
+    /XObject
+    <<
+    >>
+  >>
+  /Type /Page
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+10 0 obj   % PdfSharp.Pdf.PdfDictionary
+<<
+  /Length 4119
+>>
+stream
+
+q 18.0 36 576.0 720.0 re W n
+q 20.0 411.248 572.0 1782.752 re W n
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 694.872 Td (                                                                                    Page ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 447.264 694.872 Td (3) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 452.088 694.872 Td ( of ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 471.312 694.872 Td (3) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 667.656 Td (               Michael Nogueira                                 Date Printed: May ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 413.712 667.656 Td (15) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 423.288 667.656 Td (, ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 432.864 667.656 Td (2023) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 658.584 Td (               ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 92.016 658.584 Td (7489) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 111.24 658.584 Td ( North River Line) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 649.512 Td (               Wallaceburg ON N) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 168.84 649.512 Td (8) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 173.664 649.512 Td (A ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 183.24 649.512 Td (4) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 188.064 649.512 Td (R) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 192.888 649.512 Td (4) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 197.712 649.512 Td (                           Student ID:   ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 394.56 649.512 Td (0888112) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 640.44 Td (               CANADA) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 631.368 Td (                                                                ESIS_NSN:) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 567.864 Td (    Course       Course Title                               Grade   Credit Units   Grade Points) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 540.648 Td (    Term Academic Standing: Recommended for Graduation) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 531.576 Td (    Program:                CPA) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 168.84 531.576 Td (2) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 173.664 531.576 Td ( - Computer Programmer Analyst) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 513.432 Td (              ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 87.192 513.432 Td (2023) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 106.416 513.432 Td ( Winter) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 495.288 Td (    COOP-CPA) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 77.616 495.288 Td (2) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 82.44 495.288 Td (W   CPA) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 116.064 495.288 Td (2) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 120.888 495.288 Td ( Co-op Work Term                         P) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 477.144 Td (                                             CREDENTIALS) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 459 Td (                 Program:        Computer Programmer Analyst) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 449.928 Td (                                 Co-op Endorsed) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 440.856 Td (                 Degree:         Ontario College Advanced Dipl Awarded April ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 389.664 440.856 Td (21) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 399.24 440.856 Td (, ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 408.816 440.856 Td (2023) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 431.784 Td (                 Program GPA:    ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 178.416 431.784 Td (3.90) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 197.64 431.784 Td (            Program Totals:       ) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 360.864 431.784 Td (121.00) Tj T* ET
+BT /F3 8 Tf 0 0 0 rg 356.791 TL 20.016 413.64 Td (                  ********************  End of Transcript  ********************) Tj T* ET
+Q
+Q
+q 18.0 36 576.0 720.0 re W n
+Q
+endstream
+endobj
+%--------------------------------------------------------------------------------------------------
+11 0 obj   % PdfSharp.Pdf.PdfPage
+<<
+  /Contents 10 0 R
+  /Group
+  <<
+    /CS /DeviceRGB
+    /I false
+    /K false
+    /S /Transparency
+  >>
+  /MediaBox [0 0 612 792]
+  /Parent 3 0 R
+  /Resources
+  <<
+    /Font
+    <<
+      /F3 5 0 R
+    >>
+    /ProcSet 4 0 R
+    /XObject
+    <<
+    >>
+  >>
+  /Type /Page
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+xref
+0 12
+0000000000 65535 f 
+0000000411 00000 n 
+0000000725 00000 n 
+0000000915 00000 n 
+0000001117 00000 n 
+0000001299 00000 n 
+0000001533 00000 n 
+0000017240 00000 n 
+0000017654 00000 n 
+0000034355 00000 n 
+0000034769 00000 n 
+0000039074 00000 n 
+trailer
+<<
+  /ID [<08EF80BB5B8E364E92094B680620441E><08EF80BB5B8E364E92094B680620441E>]
+  /Info 1 0 R
+  /Root 2 0 R
+  /Size 12
+>>
+startxref
+39490
+%%EOF
