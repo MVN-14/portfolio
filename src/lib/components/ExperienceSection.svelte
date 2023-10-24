@@ -22,30 +22,32 @@
 			</div>
 
 			<h2>Work Experience</h2>
-			<div class="field">
-				<img src={stepImage} alt="Step Software" width="150" />
-				<div class="fieldLabels">
-					<p><a target="_blank" href="https://www.stepsoftware.com/">STEP Software</a></p>
-					<p>Software Developer</p>
-					<p>January 2023 - April 2023</p>
+			<div class="grid">
+				<div class="field">
+					<img src={stepImage} alt="Step Software" width="150" />
+					<div class="fieldLabels">
+						<p><a target="_blank" href="https://www.stepsoftware.com/">STEP Software</a></p>
+						<p>Software Developer</p>
+						<p>January 2023 - April 2023</p>
+					</div>
 				</div>
-			</div>
-			<div class="field">
-				<img src={atlasImage} alt="Atlas Apex Roofing Inc." width="150" />
-				<div class="fieldLabels">
-					<p><a target="_blank" href="https://www.atlas-apex.com/">Atlas Apex Roofing</a></p>
-					<p>Application Developer</p>
-					<p>May 2022 - August 2022</p>
+				<div class="field">
+					<img src={atlasImage} alt="Atlas Apex Roofing Inc." width="150" height="150" />
+					<div class="fieldLabels">
+						<p><a target="_blank" href="https://www.atlas-apex.com/">Atlas Apex Roofing</a></p>
+						<p>Application Developer</p>
+						<p>May 2022 - August 2022</p>
+					</div>
 				</div>
-			</div>
-			<div class="field">
-				<img src={novaImage} alt="Nova Chemicals" width="150" />
-				<div class="fieldLabels">
-					<p class="name">
-						<a target="_blank" href="https://www.stepsoftware.com/">Nova Chemicals</a>
-					</p>
-					<p class="position">Cloud Platform Automation Developer</p>
-					<p class="date">September 2021 - December 2021</p>
+				<div class="field">
+					<img src={novaImage} alt="Nova Chemicals" width="150" height="125" />
+					<div class="fieldLabels">
+						<p class="name">
+							<a target="_blank" href="https://www.stepsoftware.com/">Nova Chemicals</a>
+						</p>
+						<p class="position">Cloud Platform Automation Developer</p>
+						<p class="date">September 2021 - December 2021</p>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -83,7 +85,7 @@
 					</h4>
 				</div>
 
-          <div>
+				<div>
 					<h3>
 						<a target="_blank" href="https://github.com/MVN-14/nvim-config">
 							<img src={githubLogo} alt="github logo" width="25" />
@@ -91,13 +93,10 @@
 						</a>
 					</h3>
 					<h4>
-						My custom configuration for <a
-							target="_blank"
-							href="https://neovim.io/">neovim</a
-						> (a code editor forked from vim).
+						My custom configuration for <a target="_blank" href="https://neovim.io/">neovim</a> (a code
+						editor forked from vim).
 					</h4>
 				</div>
-
 
 				<div>
 					<h3>
@@ -110,12 +109,12 @@
 						i3blocks config and custom scripts I wrote and use for <a
 							target="_blank"
 							href="https://github.com/vivien/i3blocks">i3blocks</a
-						> (a status bar plugin for a tiling window manager called i3wm). Includes things like nord vpn, spotify, volume
-						blocks.
+						> (a status bar plugin for a tiling window manager called i3wm). Includes things like nord
+						vpn, spotify, volume blocks.
 					</h4>
 				</div>
 
-        <div>
+				<div>
 					<h3>
 						<a target="_blank" href="https://github.com/MVN-14/SDL2-TicTacToe">
 							<img src={githubLogo} alt="github logo" width="25" />
@@ -123,14 +122,13 @@
 						</a>
 					</h3>
 					<h4>
-						Simple TicTacToe game using <a
-							target="_blank"
-							href="https://www.libsdl.org/">
-						Simple DirectMedia Layer</a>, a C API that provides low level access to graphics
-					 via OpenGL.</h4>
+						Simple TicTacToe game using <a target="_blank" href="https://www.libsdl.org/">
+							Simple DirectMedia Layer</a
+						>, a C API that provides low level access to graphics via OpenGL.
+					</h4>
 				</div>
 
-        <div>
+				<div>
 					<h3>
 						<a target="_blank" href="https://github.com/MVN-14/dmenu-scripts">
 							<img src={githubLogo} alt="github logo" width="25" />
@@ -138,11 +136,10 @@
 						</a>
 					</h3>
 					<h4>
-						Shell scrpts leveraging <a
-							target="_blank"
-							href="https://tools.suckless.org/dmenu/">
-              dmenu
-						</a>, a dynamic shell menu interface i use with i3wm.</h4>
+						Shell scrpts leveraging <a target="_blank" href="https://tools.suckless.org/dmenu/">
+							dmenu
+						</a>, a dynamic shell menu interface i use with i3wm.
+					</h4>
 				</div>
 			</div>
 		</div>
@@ -168,6 +165,16 @@
 		padding-bottom: 4rem;
 	}
 
+  .field > img {
+      background: white;
+  }
+	@media screen and (max-width: 500px) {
+		.field > img {
+      width: 50px;
+      height: 50px;
+		}
+	}
+
 	.fieldLabels {
 		display: flex;
 		flex-direction: column;
@@ -178,7 +185,7 @@
 		padding: 0;
 		margin: 0;
 		font-weight: 700;
-    font-size: max(16px, 1.3vw);
+		font-size: max(16px, 1.3vw);
 	}
 
 	h1 {
