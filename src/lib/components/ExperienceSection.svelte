@@ -57,13 +57,13 @@
 			<div class="otherProjects">
 				<div>
 					<h3>
-						<a target="_blank" href="https://github.com/MVN-14/scripts/blob/master/cmake-helper">
+						<a target="_blank" href="https://github.com/MVN-14/cmake-helper">
 							<img src={githubLogo} alt="github logo" width="25" />
 							cmake-helper
 						</a>
 					</h3>
 					<h4>
-						A simple bash script I developed to build, generate, and run <a
+						A cmake wrapper to simplify building, generating, and running <a
 							target="_blank"
 							href="https://cmake.org/">cmake</a
 						> projects from the command line.
