@@ -45,7 +45,7 @@
 
 	a {
 		text-decoration: none;
-		color: grey;
+		color: var(--secondary-foreground);
 		font-weight: 700;
 	}
 </style>
