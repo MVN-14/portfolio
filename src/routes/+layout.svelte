@@ -5,11 +5,11 @@
   @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap');
 
 	:root {
-		--primary-foreground: #7ddf64;
-		--primary-background: #c0df85;
+		--primary-foreground: #60656F;
+		--primary-background: #F7F7FF;
 		--background: #deb986;
-		--secondary-foreground: #db6c79;
-		--secondary-background: #ed4d6e;
+		--secondary-foreground: #F7F7FF;
+		--secondary-background: #C49991;
 	}
   
 	:global(html, body) {
