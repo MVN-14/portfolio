@@ -43,7 +43,7 @@
 					<img src={novaImage} alt="Nova Chemicals" width="150" height="125" />
 					<div class="fieldLabels">
 						<p class="name">
-							<a target="_blank" href="https://www.stepsoftware.com/">Nova Chemicals</a>
+							<a target="_blank" href="https://www.novachem.com/">Nova Chemicals</a>
 						</p>
 						<p class="position">Cloud Platform Automation Developer</p>
 						<p class="date">September 2021 - December 2021</p>
