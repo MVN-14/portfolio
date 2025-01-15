@@ -1,9 +1,9 @@
-ABOUT
-
-<div></div>
+<div>ABOUT</div>
 
 <style lang="scss">
   div {
-    height: 4000px;
+    width: 100%;
+    padding: 2em;
+    margin: 0;
   }
 </style>
