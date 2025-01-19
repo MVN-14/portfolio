@@ -39,7 +39,9 @@
       {#key page.url.pathname}
         <Linenumbers />
       {/key}
-      {@render children()}
+      <div id="content-container">
+        {@render children()}
+      </div>
     </section>
     <Footer />
   </main>
@@ -55,6 +57,12 @@
       section {
         min-height: calc(100vh - calc(var(--lineHeight) * 2));
         display: flex;
+
+        #content-container {
+          padding-top: 5%;
+          width: 80%;
+          margin: 0 auto;
+        }
       }
     }
   }

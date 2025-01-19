@@ -54,7 +54,6 @@
 </aside>
 
 <style lang="scss">
-  $item-colour: orange;
   $background-colour: #1c1c1c;
 
   aside {
@@ -97,7 +96,7 @@
           }
 
           span {
-            color: $item-colour;
+            color: var(--accent-1);
             font-weight: bolder;
           }
         }

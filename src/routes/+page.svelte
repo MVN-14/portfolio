@@ -2,16 +2,16 @@
   <h1>
     <span id="welcome">Welcome</span><br />
     <span id="to-my">to my</span>
-    <span id="portfolio" class="orange bold">portfolio.</span>
+    <span id="portfolio" class="accent-1 bold">portfolio.</span>
   </h1>
 
   <p>
     I am a <span class="bold">passionate</span> software developer who
     <span class="italic bold">loves</span> to
-    <span class="orange bold">learn</span>,
-    <span class="orange bold">write</span>
+    <span class="accent-1 bold">learn</span>,
+    <span class="accent-1 bold">write</span>
     and
-    <span class="orange bold">configure</span>
+    <span class="accent-1 bold">configure</span>
     cool tech.
   </p>
 
@@ -24,13 +24,11 @@
 
 <style lang="scss">
   div {
-    width: 80%;
-    margin: 0 auto;
     text-align: center;
 
     h1 {
       color: gray;
-      padding: 3em 0;
+      padding: 0;
 
       #welcome {
         font-size: 148px;
@@ -54,7 +52,7 @@
     section {
       display: flex;
       justify-content: space-between;
-      padding-top: 4em;
+      padding-top: 8em;
       margin: 0 auto;
       max-width: 1000px;
 
@@ -62,7 +60,7 @@
         font-size: 38px;
         text-decoration: none;
         font-weight: bold;
-        border: solid 2px orange;
+        border: solid 5px orange;
         padding: 0.5em;
         color: var(--text);
       }
@@ -77,7 +75,7 @@
     font-weight: bold;
   }
 
-  .orange {
-    color: orange;
+  .accent-1 {
+    color: var(--accent-1);
   }
 </style>

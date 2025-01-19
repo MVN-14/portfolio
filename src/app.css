@@ -4,6 +4,7 @@
   --grey: #3b3b3b;
   --sidebar-width: 340px;
   --status-font-size: 18px;
+  --accent-1: orange;
 
   box-sizing: border-box;
   font-family: 'Courier New', Courier, monospace;
@@ -24,4 +25,12 @@ body {
 
 .fa-html5 {
   color: #c5502f;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.italic {
+  font-style: italic;
 }
