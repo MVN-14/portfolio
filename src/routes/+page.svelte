@@ -1,6 +1,6 @@
 <div>
   <h1>
-    <span id="welcome" class="italic">Welcome</span>
+    <span id="welcome" class="italic">Welcome</span><br />
     <span id="to-my">to my</span>
     <span id="portfolio" class="orange">portfolio.</span>
   </h1>
@@ -21,29 +21,29 @@
   div {
     width: 80%;
     margin: 0 auto;
+    text-align: center;
 
     h1 {
       color: gray;
-      display: flex;
-      flex-direction: column;
-      padding: 1em 0;
+      padding: 3em 0;
 
       #welcome {
-        font-size: 98px;
+        font-size: 148px;
         color: var(--text);
       }
 
       #to-my {
-        font-size: 48px;
+        font-size: 60px;
       }
 
       #portfolio {
-        font-size: 70px;
+        font-size: 98px;
+        font-weight: bold;
       }
     }
 
     p {
-      font-size: 30px;
+      font-size: 38px;
     }
 
     section {
@@ -51,9 +51,10 @@
       justify-content: space-between;
       width: 80%;
       padding-top: 4em;
+      margin: 0 auto;
 
       a {
-        font-size: 24px;
+        font-size: 38px;
         text-decoration: none;
         font-weight: bold;
       }

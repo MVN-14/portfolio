@@ -5,15 +5,12 @@
   import I3Bar from "$lib/components/I3Bar.svelte";
   import Linenumbers from "$lib/components/Linenumbers.svelte";
   import Cursor from "$lib/components/Cursor.svelte";
-  import { footerData } from "$lib/state.svelte";
+  import { footerData, cursorData } from "$lib/state.svelte";
   import { getPageHeight } from "$lib/util";
   import { page } from "$app/state";
   import { lineHeight, cursorWidth, sidebarWidth } from "$lib/constants";
 
   const { children } = $props();
-
-  let cursorX = $state(0);
-  let cursorY = $state(0);
 
   function onClick(e: MouseEvent) {
     footerData.X = Math.round(e.pageX / cursorWidth);
@@ -24,19 +21,18 @@
       footerData.sidebar.Y = Math.round(e.pageY / lineHeight);
     }
 
-    cursorX = Math.round(footerData.X / cursorWidth);
-    cursorY = footerData.Y * lineHeight;
+    cursorData.X = Math.floor((footerData.X + sidebarWidth) / cursorWidth);
+    cursorData.Y = footerData.Y * lineHeight;
   }
 </script>
 
-<svelte:window onclick={onClick} />
-
-<Cursor X={cursorX} Y={cursorY} />
+<Cursor />
 <I3Bar></I3Bar>
 <div>
   <Sidebar />
   <main>
-    <section>
+    <!-- svelte-ignore a11y_click_events_have_key_events, a11y_no_static_element_interactions -->
+    <section onclick={onClick}>
       {#key page.url.pathname}
         <Linenumbers />
       {/key}
@@ -54,7 +50,7 @@
       width: 100%;
 
       section {
-        min-height: 100vh;
+        min-height: calc(100vh - calc(var(--lineHeight) * 2));
         display: flex;
       }
     }

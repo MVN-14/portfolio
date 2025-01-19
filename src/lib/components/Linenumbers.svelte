@@ -1,16 +1,15 @@
 <script lang="ts">
-  import { page } from "$app/state";
   import { lineHeight } from "$lib/constants";
   import { getPageHeight } from "$lib/util";
   import { onMount } from "svelte";
 
   let numLines = $state(0);
   onMount(() => {
-    numLines = getPageHeight() / lineHeight;
+    numLines = (getPageHeight() - lineHeight * 3) / lineHeight;
   });
 </script>
 
-<div>
+<div id="container">
   {#each { length: numLines }, i}
     <div>
       <p>
@@ -21,7 +20,8 @@
 </div>
 
 <style lang="scss">
-  div {
+  #container {
+    padding-top: 5px;
     display: flex;
     flex-direction: column;
     width: min-content;

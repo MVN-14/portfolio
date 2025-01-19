@@ -61,7 +61,7 @@
     position: sticky;
     top: 20px;
     left: 0;
-    width: var(--sidebar-width);
+    min-width: var(--sidebar-width);
     height: calc(100svh - 20px);
     display: flex;
     flex-direction: column;
@@ -82,7 +82,7 @@
         display: flex;
         margin: 0;
         width: 100%;
-        font-size: 125%;
+        font-size: 24px;
         align-items: center;
 
         a {
