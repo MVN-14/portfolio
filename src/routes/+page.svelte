@@ -1,19 +1,24 @@
 <div>
   <h1>
-    <span id="welcome" class="italic">Welcome</span><br />
+    <span id="welcome">Welcome</span><br />
     <span id="to-my">to my</span>
-    <span id="portfolio" class="orange">portfolio.</span>
+    <span id="portfolio" class="orange bold">portfolio.</span>
   </h1>
 
   <p>
-    I am a passionate software developer who <span class="italic">loves</span> to
-    learn, write and configure cool tech.
+    I am a <span class="bold">passionate</span> software developer who
+    <span class="italic bold">loves</span> to
+    <span class="orange bold">learn</span>,
+    <span class="orange bold">write</span>
+    and
+    <span class="orange bold">configure</span>
+    cool tech.
   </p>
 
   <section>
-    <a class="orange" href="/about">About Me</a>
-    <a class="orange" href="/projects">My Projects</a>
-    <a class="orange" href="/qualifications">Experience</a>
+    <a href="/about">About Me</a>
+    <a href="/projects">My Projects</a>
+    <a href="/qualifications">Experience</a>
   </section>
 </div>
 
@@ -49,20 +54,27 @@
     section {
       display: flex;
       justify-content: space-between;
-      width: 80%;
       padding-top: 4em;
       margin: 0 auto;
+      max-width: 1000px;
 
       a {
         font-size: 38px;
         text-decoration: none;
         font-weight: bold;
+        border: solid 2px orange;
+        padding: 0.5em;
+        color: var(--text);
       }
     }
   }
 
   .italic {
     font-style: italic;
+  }
+
+  .bold {
+    font-weight: bold;
   }
 
   .orange {

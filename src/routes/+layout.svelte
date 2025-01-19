@@ -13,7 +13,10 @@
   const { children } = $props();
 
   function onClick(e: MouseEvent) {
-    footerData.X = Math.round(e.pageX / cursorWidth);
+    footerData.X = Math.max(
+      Math.round((e.pageX - sidebarWidth - 5 * cursorWidth) / cursorWidth),
+      1,
+    );
     footerData.Y = Math.round(e.pageY / lineHeight);
     footerData.percentage = Math.round((e.pageY / getPageHeight()) * 100);
     if (e.pageX <= sidebarWidth) {

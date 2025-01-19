@@ -19,7 +19,7 @@
       <i class="fa fa-html5"></i>html | {footerData.percentage}%
     </p>
     <p class={"footer-item right coloured"}>
-      {`${footerData.X}:${footerData.Y}`}
+      {`${footerData.Y}:${footerData.X}`}
     </p>
   </section>
 </footer>
