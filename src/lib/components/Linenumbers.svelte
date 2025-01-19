@@ -1,5 +1,13 @@
 <script lang="ts">
-  let { numLines } = $props();
+  import { page } from "$app/state";
+  import { lineHeight } from "$lib/constants";
+  import { getPageHeight } from "$lib/util";
+  import { onMount } from "svelte";
+
+  let numLines = $state(0);
+  onMount(() => {
+    numLines = getPageHeight() / lineHeight;
+  });
 </script>
 
 <div>

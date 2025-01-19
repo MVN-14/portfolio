@@ -1,7 +1,8 @@
 <div>
   <h1>
-    <span id="welcome" class="italic">Welcome</span> to my
-    <span class="orange">portfolio.</span>
+    <span id="welcome" class="italic">Welcome</span>
+    <span id="to-my">to my</span>
+    <span id="portfolio" class="orange">portfolio.</span>
   </h1>
 
   <p>
@@ -9,9 +10,11 @@
     learn, write and configure cool tech.
   </p>
 
-  <div id="skills">
-    <h2 class="orange">My skills.</h2>
-  </div>
+  <section>
+    <a class="orange" href="/about">About Me</a>
+    <a class="orange" href="/projects">My Projects</a>
+    <a class="orange" href="/qualifications">Experience</a>
+  </section>
 </div>
 
 <style lang="scss">
@@ -20,27 +23,40 @@
     margin: 0 auto;
 
     h1 {
-      font-size: 84px;
-      padding-top: 1em;
       color: gray;
+      display: flex;
+      flex-direction: column;
+      padding: 1em 0;
 
       #welcome {
         font-size: 98px;
         color: var(--text);
       }
+
+      #to-my {
+        font-size: 48px;
+      }
+
+      #portfolio {
+        font-size: 70px;
+      }
     }
 
     p {
-      font-size: 38px;
+      font-size: 30px;
     }
 
-    #skills {
-      padding: 3em 0 0 0;
-      width: 100%;
-    }
+    section {
+      display: flex;
+      justify-content: space-between;
+      width: 80%;
+      padding-top: 4em;
 
-    h2 {
-      font-size: 52px;
+      a {
+        font-size: 24px;
+        text-decoration: none;
+        font-weight: bold;
+      }
     }
   }
 
@@ -52,4 +68,3 @@
     color: orange;
   }
 </style>
-

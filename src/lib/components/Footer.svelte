@@ -33,6 +33,7 @@
     left: 0;
     display: flex;
     justify-content: space-between;
+    font-size: var(--status-font-size);
 
     section {
       display: flex;

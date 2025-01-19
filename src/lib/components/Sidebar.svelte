@@ -59,11 +59,10 @@
 
   aside {
     position: sticky;
-    top: 0;
+    top: 20px;
     left: 0;
     width: var(--sidebar-width);
-    /*border-right: solid 6px var(--grey);*/
-    height: 100svh;
+    height: calc(100svh - 20px);
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -83,7 +82,7 @@
         display: flex;
         margin: 0;
         width: 100%;
-        font-size: 150%;
+        font-size: 125%;
         align-items: center;
 
         a {
@@ -105,7 +104,7 @@
       }
 
       .selected {
-        background-color: #000000;
+        background-color: #111111;
         color: white;
       }
     }
@@ -115,6 +114,7 @@
       bottom: 0;
       display: flex;
       justify-content: space-between;
+      font-size: var(--status-font-size);
 
       .footer-item {
         padding: 0.2em 0.8em;
