@@ -52,7 +52,7 @@
     top: 0;
     left: 0;
     z-index: 100;
-    height: 20px;
+    height: 25px;
     width: 100%;
     background-color: black;
     display: flex;
@@ -60,7 +60,7 @@
     justify-content: flex-end;
 
     .powerline {
-      padding: 2.5px 1em;
+      padding: 4px 1em 1px 1em;
       border-top-left-radius: 15px;
       border-bottom-left-radius: 15px;
       width: max-content;
@@ -82,7 +82,7 @@
 
     .powerline-black {
       background-color: black;
-      color: #769ff0;
+      color: $i3blue;
     }
 
     .powerline-blue {
