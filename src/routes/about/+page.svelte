@@ -19,7 +19,6 @@
           <li>Html5 | CSS/TailwindCSS</li>
           <li>Svelte4 | Svelte5 | SveltKit</li>
           <li>NodeJS | Express</li>
-          <li>REST APIs</li>
           <li>Firebase</li>
         </ul>
       </div>
@@ -43,12 +42,12 @@
     <ul>
       <li>
         <a href="https://neovim.io/" target="_blank">
-          <h4>Neovim</h4>
+          <h4>Neovim<i class="fa-solid fa-code fa-sm"></i></h4>
         </a>
         <p>
           <span class="bold italic">
-            The UI of this portfolio is modeled after my Neovim environment.
-          </span>
+            (The UI of this website is modeled after my Neovim/i3 environment.)
+          </span> <br />
           I love it's configurability and plugin ecosystem. I enjoy messing around
           with my config and creating my own custom plugins. (Because why spend 5
           minutes solving a problem when you can spend 5 days writing a plugin to
@@ -58,7 +57,7 @@
 
       <li>
         <a href="https://archlinux.org/" target="_blank">
-          <h4>Arch Linux</h4>
+          <h4>Arch Linux<i class="fa-brands fa-linux"></i></h4>
         </a>
         <p>
           I have been daily driving linux for the last 2 years. The first year
@@ -73,11 +72,11 @@
 
       <li>
         <a href="https://go.dev/" target="_blank">
-          <h4>Go</h4>
+          <h4>Go<i class="fa-brands fa-golang"></i></h4>
         </a>
         <p>
-          I have been choosing Go for projects lately and have been enjoying the
-          language.
+          I have been choosing the Go language for my projects lately and have
+          been enjoying the language.
           <span class="bold italic"
             >The top status bar of this UI is modeled after my custom i3Bar that
             executes go programs to create the output.</span
@@ -167,10 +166,15 @@
               min-width: 8em;
               text-align: right;
             }
-          }
 
+            text-decoration: underline var(--accent-1);
+
+            i {
+              padding-left: 1rem;
+            }
+          }
           p {
-            font-size: 1.2em;
+            font-size: 1.3em;
           }
         }
       }
